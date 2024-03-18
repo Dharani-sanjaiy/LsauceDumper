@@ -1,0 +1,4 @@
+﻿  LsauceDumper.cpp
+C:\Users\dharani\Documents\Coding\MalDev\LsauceDumper\LsauceDumper.cpp(86,1): warning C4715: 'DumpThatDude': not all control paths return a value
+C:\Users\dharani\Documents\Coding\MalDev\LsauceDumper\LsauceDumper.cpp(32,1): warning C4715: 'GetPID': not all control paths return a value
+  LsauceDumper.vcxproj -> C:\Users\dharani\Documents\Coding\MalDev\LsauceDumper\x64\Debug\LsauceDumper.exe
