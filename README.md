@@ -4,4 +4,4 @@ Program to dump lsass.
 
 Requires SeDebug Privilege or Administrator rights.
 
-Tested on Windows 10. Had some issues while dumping lsass in win 11. 
+Tested on Windows 10. Had some issues while dumping lsass on win 11. 
